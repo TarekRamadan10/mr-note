@@ -1,2 +1,2 @@
-# mt note
+# Mr Note
 ## simple note app  
