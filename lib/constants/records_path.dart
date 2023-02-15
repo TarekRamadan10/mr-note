@@ -1,0 +1,1 @@
+const RECORDS_PATH='/data/user/0/com.example.mr_note/cache';
